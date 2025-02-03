@@ -6,4 +6,4 @@ Created a login page that uses local storage to store and retrieve user credenti
 Integrated a cart page that allows users to view, update, and remove items.Styled the website with CSS for a professional and visually appealing layout.
 
 
-Video-Url="https://drive.google.com/file/d/1_SG8wgOFj9TW5qNhRgXt_79wtttRnQml/view?usp=sharing"
+Video-Url="https://drive.google.com/file/d/1_SG8wgOFj9TW5qNhRgXt_79wtttRnQml/view?usp=drive_link"
